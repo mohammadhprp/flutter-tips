@@ -2,6 +2,10 @@
 
 ## Tips
 
+### Extensions
+
+    - [Color Hex](lib/_tips/extensions/color_hex.dart)
+
 ## Components
 
 ## Contributing

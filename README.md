@@ -4,7 +4,7 @@
 
 ### Extensions
 
-    - [Color Hex](lib/_tips/extensions/color_hex.dart)
+   - [Convert Color Hex to Color Object](lib/_tips/extensions/color_hex_screen.dart)
 
 ## Components
 

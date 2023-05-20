@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class ListOfTipsAndComponentsView extends StatelessWidget {
-  const ListOfTipsAndComponentsView({super.key});
+class ComponentsView extends StatelessWidget {
+  const ComponentsView({super.key});
 
   @override
   Widget build(BuildContext context) {

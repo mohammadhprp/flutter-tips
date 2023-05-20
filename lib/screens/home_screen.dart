@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import '../widgets/list_of_tips_and_components_view.dart';
+import '../widgets/home/tips_and_components_tab_view.dart';
 
 class HomeScreen extends StatelessWidget {
-  static const routeName = '/';
+  static const routeName = '/home';
   const HomeScreen({super.key});
 
   @override
@@ -13,7 +13,7 @@ class HomeScreen extends StatelessWidget {
         centerTitle: true,
         title: const Text('Flutter Tips and Components'),
       ),
-      body: const ListOfTipsAndComponentsView(),
+      body: const TipsAndComponentsTabView(),
     );
   }
 }
